@@ -5,4 +5,8 @@
   margin: 0;
   box-sizing: border-box;
   font-size: 16px;
-}/*# sourceMappingURL=mobile.css.map */
+}
+
+h1 {
+  color: red;
+}/*# sourceMappingURL=app.css.map */
