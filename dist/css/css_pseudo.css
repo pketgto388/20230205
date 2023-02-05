@@ -20,6 +20,7 @@
   font-weight: 600;
 }
 .hover-demo:hover {
-  background: blue;
-  color: #fff;
+  background: green;
+  color: black;
+  font-size: 100px;
 }/*# sourceMappingURL=css_pseudo.css.map */
